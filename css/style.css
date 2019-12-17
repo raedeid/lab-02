@@ -1,0 +1,21 @@
+*{
+    font-family: monospace;
+}
+header{
+    text-align: center;
+}
+
+div{
+    float: right;
+    width: 246px;
+    height: 286px;
+    border: 6px solid red;
+    background-color: lightgrey;
+    margin: auto;
+    /* overflow: unset; */
+    /* clear: both; */
+}
+img{
+    width: 150px;
+    height: 150px;
+}
