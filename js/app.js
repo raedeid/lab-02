@@ -12,7 +12,7 @@ function Picture(image_url, title, description, keyword, horns) {
 Picture.prototype.render = function () {
     // console.log(this)
     let wholeResult = $('<div> <h2></h2> <img/> <p></p> </div>').clone().addClass(this.keyword);
-    wholeResult.find('h2').text(this.keyword);
+    wholeResult.find('h2').text(this.title);
     wholeResult.find('img').attr('src', this.image_url);
     wholeResult.find('p').text(this.description);
     $('main').append(wholeResult)
