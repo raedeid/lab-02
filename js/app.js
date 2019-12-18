@@ -38,7 +38,7 @@ $.get('data/page-1.json', 'json')
             // console.log(obj)
             obj.makeOption();
             obj.render();
-            // console.log(Picture.prototype)  
+          
         });
 
     })
