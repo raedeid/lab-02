@@ -19,7 +19,7 @@
 7. construction
 8. jquary
 
-## live link : [here]( https://qusai-alhanaktah.github.io/lab-02/.)
+## live link : [here]( https://raedeid.github.io/lab-02/.)
 
 ## license
 This project is licensed under the MIT License.
